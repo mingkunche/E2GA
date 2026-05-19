@@ -1,0 +1,18 @@
+# Core dependencies
+numpy
+pandas
+scikit-image
+opencv-python
+matplotlib
+Pillow
+
+# Data loading / utilities
+blobfile
+batchgenerators
+
+# Medical image utilities
+nibabel
+
+# Optional visualization and model summary tools
+visdom
+torchsummary
