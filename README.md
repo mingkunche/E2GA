@@ -71,13 +71,17 @@ The attack script reads ISIC images from the path specified by `--data_dir`.
 
 ## Pretrained Checkpoint
 
-Place the pretrained ISIC diffusion segmentation checkpoint in the repository, for example:
+The pretrained ISIC diffusion segmentation checkpoint is not included in this repository due to file size limitations.
+
+Please download the checkpoint from:
+
+[Download `emasavedmodel_0.9999_580000.pt`](sha256:2c14848af841beb73e2f31a318ba2b093ebe8ed364d610dc17a19190f45db688)
+
+After downloading, place it in the repository root:
 
 ```text
-emasavedmodel_0.9999_580000.pt
-```
-
-This checkpoint is not included in the repository. Please download or prepare it separately.
+E2GA/
+└── emasavedmodel_0.9999_580000.pt
 
 ## Running E2GA Attack
 
