@@ -82,7 +82,7 @@ The pretrained ISIC diffusion segmentation checkpoint is not included in this re
 
 Please download the checkpoint from:
 
-[Download `emasavedmodel_0.9999_580000.pt`](https://github.com/mingkunche/E2GA/releases/download/model/emasavedmodel_0.9999_580000.pt)
+[Download emasavedmodel_0.9999_580000.pt](https://github.com/mingkunche/E2GA/releases/download/model/emasavedmodel_0.9999_580000.pt)
 
 After downloading, place it in the repository root:
 
