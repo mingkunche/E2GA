@@ -62,12 +62,16 @@ pip install torchvision
 
 ## Data Preparation
 
-Prepare the ISIC test images and place them under a directory such as:
+This implementation uses the ISIC 2016 skin lesion segmentation dataset.
+
+Please download the ISIC 2016 Challenge dataset from the official ISIC Challenge website:
+
+[Download ISIC 2016 dataset](https://challenge.isic-archive.com/data/)
+
+For this attack script, place the ISIC test images under a directory such as:
 
 ```text
 data/ISIC/Test/
-```
-The attack script reads ISIC images from the path specified by `--data_dir`.
 
 ## Pretrained Checkpoint
 
