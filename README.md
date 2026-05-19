@@ -157,7 +157,7 @@ If you find this repository useful, please consider citing our paper:
 
 ```bibtex
 @article{e2ga2026,
-  title={Expected Gradient Analysis and Adversarial Perturbations for Conditional1
+  title={Expected Gradient Analysis and Adversarial Perturbations for Conditional
 Diffusion Models},
   author={Your Name and Coauthors},
   journal={},
