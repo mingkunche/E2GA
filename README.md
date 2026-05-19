@@ -91,7 +91,8 @@ E2GA/
 
 The full command is:
 
-```bash
+```text
+bash
 python scripts/attack_e2ga.py \
   --data_name ISIC \
   --data_dir ./data/ISIC/Test/ISBI2016_ISIC_Part1_Test_Data \
